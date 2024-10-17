@@ -17,7 +17,7 @@
     /* background-color: blue; */
     height:60px;
     display: flex;
-    max-width: 1024px;
+   
     justify-content: right;
     align-items: center;
     margin-right:24px;
@@ -217,7 +217,7 @@ img{
     left: 88px;
    }
 
-   @media (max-width: 376px) {
+   /* @media (max-width: 376px) {
     
     button{
         display: flex;
@@ -238,7 +238,7 @@ img{
     }
     .ster{
         display:none;
-    }
+    } */
  
   
 }
